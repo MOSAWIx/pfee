@@ -1,0 +1,206 @@
+{
+  "DiscountHeader": {
+    "title": "Profitez des meilleures offres avec jusqu'à 20 % de réduction"
+  },
+  "Header": {
+    "search": "Rechercher",
+    "cart": "Panier",
+    "categories": "Catégories",
+
+    "noCategories": "Aucune catégorie disponible",
+    "browse_by_category": "Parcourez par catégorie",
+    "items": "articles",
+    "item": "article",
+    "ProductsName":"Produits"
+  },
+  "Banner": {
+    "title": "Faites du shopping avec style",
+    "description": "Retour gratuit pour les commandes",
+    "button": "Profitez de la livraison gratuite pour les commandes"
+  },
+  "BannerFooter": {
+    "card1": {
+      "title": "Vos Marques Préférées en Un Seul Endroit",
+      "description": "Des marques soigneusement sélectionnées pour correspondre à votre style"
+    },
+    "card2": {
+      "title": "Achetez en Toute Sécurité",
+      "description": "Apple Pay, Carte de Crédit, Tabby, Tamara, ou Paiement à la Livraison"
+    },
+    "card3": {
+      "title": "Achetez en Toute Simplicité",
+      "description": "Retours gratuits dans les 3 jours suivant l'achat"
+    },
+    "card4": {
+      "title": "Livraison Gratuite",
+      "description": "Profitez de la livraison gratuite pour les commandes de plus de 199 SAR"
+    }
+  },
+  "ErrorMessages": {
+    "nameRequired": "entrez votre nom",
+    "numberRequired": " entrez votre numéro de téléphone",
+    "cityRequired": "entrez votre ville",
+    "phoneRequired": "entrez votre numéro de téléphone",
+    "colorRequired": "Veuillez sélectionner une couleur",
+    "tailleRequired": "La taille spécifiée n'est pas disponible en stock",
+    "orderFailed": "Échec de la commande, veuillez réessayer plus tard",
+    "invalidPhone": "Veuillez entrer un numéro de téléphone valide"
+  },
+  "Footer": {
+    "InformationAboutUs": {
+      "title": "Informations Importantes",
+      "aboutUs": "À Propos de Nous",
+      "faq": "FAQ",
+      "branches": "Emplacements des Succursales",
+      "returnPolicy": "Politique de Retour",
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsConditions": "Termes et Conditions",
+      "giftCard": "Comment Utiliser la Carte Cadeau?"
+    },
+    "Help": {
+      "title": "Besoin d'Aide?",
+      "contactInfo": "Veuillez contacter notre service client de 10h à 22h",
+      "email": "Email:",
+      "phone": "Téléphone & WhatsApp:",
+      "company": "Société Emtiaz Al Arabia",
+      "taxNumber": "Numéro d'Enregistrement Fiscal: 300241059400003",
+      "commercialRegister": "Registre du Commerce: 1010246867",
+      "address": "Route de Dammam, Al Munisiyah, Riyad 13253"
+    },
+    "Orders": {
+      "title": "Mes Commandes",
+      "trackOrder": "Suivre Votre Commande",
+      "returnOrder": "Retourner Votre Commande",
+      "myAccount": "Mon Compte"
+    },
+    "Subscribe": {
+      "title": "Abonnez-vous à Notre Newsletter",
+      "description": "Enregistrez votre email pour être le premier à connaître nos offres et nouvelles collections",
+      "emailPlaceholder": "Email",
+      "subscribeButton": "S'abonner"
+    }
+  },
+  "Product": {
+    "taxInfo": "Taxes incluses, frais de livraison calculés à la caisse",
+    "buyNow": "Acheter Maintenant",
+    "colorError": "Veuillez sélectionner une couleur",
+    "sizeError": "Veuillez sélectionner une taille",
+    "tabs": {
+      "description": "Description",
+      "material": "Matériaux",
+      "materialContent": "100% coton de haute qualité",
+      "delivery": "Livraison & Retours",
+      "deliveryContent": "Livraison sous 3-5 jours ouvrables. Retours possibles dans les 14 jours."
+    },
+    "colorName": "Couleur",
+    "sizeName": "Taille",
+    "ShoeSizeName": "Taille de Chaussure",
+    "quantityName": "Quantité",
+    "piece": "Pièce",
+    "pieces": "Pièces",
+    "totalPrice": "Prix Total",
+    "discount": "Remise",
+    "orderForm": {
+      "title": "Formulaire de Commande",
+      "placeholder": {
+        "name": "Entrez votre nom et prénom",
+        "phone": "Entrez votre numéro de téléphone",
+        "note": "Entrez vos notes de demande (facultatives)",
+        "city": "Entrez votre ville"
+      },
+      "name": "Nom et Prénom",
+      "city": "Ville",
+      "phone": "numéro de téléphone",
+      "note": "Notes de demande (facultative)",
+      "button": "Commander",
+      "loading": "Commande en cours..."
+    },
+    "delivery": "Livraison Rapide",
+    "deliveryContent": "Livraison sous 1-2 jours ouvrables",
+    "ProductNotFound": {
+      "title": "Produit Non Trouvé",
+      "description": "Désolé, nous n'avons pas pu trouver le produit que vous recherchiez. Il a peut-être été supprimé ou son nom a été changé.",
+      "goBackHome": "Retourner à l'Accueil",
+      "exploreProducts": "Explorer les Produits"
+    },
+    "SimilarProducts": {
+      "title": "Produits Similaires",
+      "noProducts": "Aucun produit similaire trouvé",
+      "retry": "Réessayer"
+    }
+  },
+  "collection": {
+    "bestSellers": "Meilleures Ventes",
+    "newArrivals": "Nouveautés"
+  },
+  "InfinityLogos": {
+    "title": "Nous avons tout ce dont vous avez besoin, des marques les plus populaires dans le monde",
+    "description": "Découvrez notre large gamme de marques de sport populaires dans le monde"
+  },
+  "FastShiping": {
+    "title": "Livraison Rapide à Toutes les Parties du Maroc"
+  },
+  "ProductDetails": {
+    "colorName": "Couleur"
+  },
+  "Filter": {
+    "filter": "Filtrer",
+    "price": "Prix",
+    "colors": "Couleurs",
+    "size": "Taille",
+    "loading": "Mise à jour des résultats...",
+    "categories": "Catégories",
+    "applyFilters": "Appliquer les filtres",
+    "clear": "Effacer",
+    "selected": "Sélectionné",
+    "unsavedChanges": "Vous avez des modifications non enregistrées",
+    "clothingSizes": "Métriques",
+    "shoeSizes": "Taille de Chaussure"
+  },
+  "emptyProducts": {
+    "title": "Aucun Produit Trouvé",
+    "description": "Nous n'avons pas trouvé de produits à l'instant. Veuillez réessayer plus tard pour les nouvelles arrivées!",
+    "refreshPage": "Actualiser la Page",
+    "tryDifferentFilters": "Essayer Différents Filtres",
+    "contactSupport": "Encore des difficultés? Contactez notre équipe de support"
+  },
+  "allProducts": "Tous les Produits",
+  "footer": {
+    "subscribe": "Abonnez-vous à Notre Newsletter",
+    "subscribe_description": "Enregistrez votre email pour être le premier à connaître nos offres et nouvelles collections",
+    "email": "Email",
+    "help_us": "Besoin d'Aide?",
+    "help_us_description": "Veuillez contacter notre service client de 10h à 22h",
+    "phone": "Téléphone & WhatsApp:",
+    "email_adresse": "Adresse Email",
+    "quick_links": "Liens Rapides",
+    "home": "Accueil",
+    "products": "Produits",
+    "contact_us": "Contactez-Nous",
+    "information_about_us": "Informations Importantes",
+    "about_us": "À Propos de Nous",
+    "faq": "FAQ",
+    "return_policy": "Politique de Retour",
+    "privacy_policy": "Politique de Confidentialité"
+  },
+  "order_success": {
+    "order_successful": "Commande Réussie!",
+    "thank_you_for_your_purchase": "Merci pour votre commande! Votre commande a été reçue et est en cours de traitement.",
+    "continue_shopping": "Continuer vos achats"
+  },
+  "not_found_admin": {
+    "title": "404 - Page Not Found",
+    "description": "The admin page you're trying to access doesn't exist or you don't have permission to view it.",
+    "go_back_home": "Retourner à l'Accueil"
+  },
+  "not_found": {
+    "title": "404 - Page Non Trouvée",
+    "description": "Désolé, nous n'avons pas pu trouver la page que vous recherchiez. Elle a peut-être été supprimée ou son nom a été changé.",
+    "go_back_home": "Retourner à l'Accueil"
+  },
+  "products": "produits",
+  "showing": "Afficher",
+  "to": "à",
+  "of": "de",
+  "FastShipingTitle": "Livraison Rapide à Toutes les Parties du Maroc"
+}

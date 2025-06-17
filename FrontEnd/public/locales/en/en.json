@@ -1,0 +1,219 @@
+{
+  "DiscountHeader": {
+    "title": "Shop Best Deals with Up to 20% Off"
+  },
+  "Header": {
+    "search": "Search",
+    "cart": "Cart",
+    "categories": "Categories",
+    "noCategories": "No categories available",
+    "browse_by_category": "Browse categories",
+    "items": "items",
+    "item": "item",
+    "ProductsName":"Products"
+  },
+  "Banner": {
+    "title": "Shop with Style",
+    "description": "Free return for orders",
+    "button": "Enjoy free shipping for orders"
+  },
+  "BannerFooter": {
+    "card1": {
+      "title": "Your Favorite Brands in One Place",
+      "description": "Carefully selected brands to suit your style and different looks"
+    },
+    "card2": {
+      "title": "Shop Safely ",
+      "description": "Apple Pay, Credit Card, Tabby, Tamara, or Cash on Delivery"
+    },
+    "card3": {
+      "title": "Shop with Ease",
+      "description": "Free returns within 3 days of purchase"
+    },
+    "card4": {
+      "title": "Free Shipping",
+      "description": "Enjoy free shipping for orders over 199 SAR"
+    }
+  },
+  "ErrorMessages": {
+    "nameRequired": " Please enter your name",
+    "numberRequired": "Please enter your phone number",
+    "cityRequired": "Please enter your city",
+    "phoneRequired": "Please enter your phone number",
+    "colorRequired": "Please select a color",
+    "tailleRequired": "The specified size is not available in stock",
+    "orderFailed": "Order failed, please try again later",
+    "invalidPhone": "Please enter a valid phone number"
+  },
+  "Footer": {
+    "InformationAboutUs": {
+      "title": "Important Information",
+      "aboutUs": "About Us",
+      "faq": "FAQ",
+      "branches": "Branch Locations",
+      "returnPolicy": "Return Policy",
+      "privacyPolicy": "Privacy Policy",
+      "termsConditions": "Terms and Conditions",
+      "giftCard": "How to Use Gift Card?"
+    },
+    "Help": {
+      "title": "Need Help?",
+      "contactInfo": "Please contact our customer service team from 10 AM to 10 PM",
+      "email": "Email:",
+      "phone": "Phone & WhatsApp:",
+      "company": "Emtiaz Al Arabia Company",
+      "taxNumber": "Tax Registration Number: 300241059400003",
+      "commercialRegister": "Commercial Register: 1010246867",
+      "address": "Dammam Road, Al Munisiyah, Riyadh 13253"
+    },
+    "Orders": {
+      "title": "My Orders",
+      "trackOrder": "Track Your Order",
+      "returnOrder": "Return Your Order",
+      "myAccount": "My Account"
+    },
+    "Subscribe": {
+      "title": "Subscribe to Our Newsletter",
+      "description": "Register your email to be the first to know about our offers and new collections",
+      "emailPlaceholder": "Email",
+      "subscribeButton": "Subscribe"
+    }
+  },
+  "Product": {
+    "taxInfo": "Including taxes, shipping calculated at checkout",
+    "buyNow": "Buy Now",
+    "colorError": "Please select a color",
+    "sizeError": "Please select a size",
+    "tabs": {
+      "description": "Description",
+      "material": "Materials",
+      "materialContent": "100% high-quality cotton",
+      "delivery": "Delivery & Returns",
+      "deliveryContent": "Delivery within 3-5 business days. Returns possible within 14 days."
+    },
+    "colorName": "Color",
+    "sizeName": "Size",
+    "ShoeSizeName": "Shoe Size",
+    "quantityName": "Quantity",
+    "piece": "Piece",
+    "pieces": "Pieces",
+    "totalPrice": "Total Price",
+    "discount": "Discount",
+    "orderForm": {
+      "title": "Order Form",
+      "placeholder": {
+        "name": "Enter your full name",
+        "phone": "Enter your phone number",
+        "note": "Enter your request notes (optional)",
+        "city": "Enter your city"
+      },
+      "name": "Full Name",
+      "city": "City",
+      "phone": "phone number",
+      "note": "Request notes (optional)",
+      "button": "Order",
+      "loading": "Ordering..."
+    },
+    "delivery": "Fast Shipping",
+    "deliveryContent": "Delivery within 1-2 business days",
+    "ProductNotFound": {
+      "title": "Product Not Found",
+      "description": "Sorry, we couldn't find the product you were looking for. It may have been removed or had its name changed.",
+      "goBackHome": "Go Back Home",
+      "exploreProducts" : "Explore Products"
+    },
+    "SimilarProducts": {
+      "title": "Similar Products",
+      "noProducts": "No similar products found",
+      "retry": "Try Again"
+    }
+  },
+  "collection": {
+    "bestSellers": "Best Sellers",
+    "newArrivals": "New Arrivals"
+  },
+  "InfinityLogos": {
+    "title": "We have all the brands you need, from the most popular brands in the world",
+    "description": "Discover our wide range of popular global brands"
+  },
+  "FastShiping": {
+    "title": "Fast Shipping to all parts of Morocco"
+  },
+  "ProductDetails": {
+    "colorName": "Color"
+  },
+  "Filter": {
+    "applyFilters": "Apply Filters",
+    "clear": "Clear All",
+    "selected": "Selected",
+    "unsavedChanges": "You have unsaved changes",
+    "clothingSizes": "Clothing",
+    "shoeSizes": "Shoes",
+    "filter": "Filter",
+    "price": "Price",
+    "colors": "Colors",
+    "size": "Size",
+    "loading": "Updating results...",
+    "categories": "Categories"
+  },
+  "colors": {
+    "purple": "Purple",
+    "black": "Black",
+    "red": "Red",
+    "orange": "Orange",
+    "navy": "Navy",
+    "white": "White",
+    "brown": "Brown",
+    "green": "Green",
+    "yellow": "Yellow",
+    "grey": "Grey",
+    "pink": "Pink",
+    "blue": "Blue"
+  },
+  "emptyProducts": {
+    "title": "No Products Found",
+    "description": "We couldn't find any products at the moment. Check back soon for new arrivals!",
+    "refreshPage": "Refresh Page",
+    "tryDifferentFilters": "Try Different Filters",
+    "contactSupport": "Still having trouble? Contact our support team"
+  },
+  "allProducts": "All Products",
+  "footer": {
+    "subscribe": "Subscribe to Our Newsletter",
+    "subscribe_description": "Register your email to be the first to know about our offers and new collections",
+    "email": "Email",
+    "help_us": "Need Help?",
+    "help_us_description": "Please contact our customer service team from 10 AM to 10 PM",
+    "phone": "Phone & WhatsApp:",
+    "email_adresse": "Email Adresse",
+    "quick_links": "Quick Links",
+    "home": "Home",
+    "products": "Products",
+    "contact_us": "Contact Us",
+    "information_about_us": "Important Information",
+    "about_us": "About Us",
+    "faq": "FAQ",
+    "return_policy": "Return Policy",
+    "privacy_policy": "Privacy Policy"
+  },
+  "order_success": {
+    "order_successful": "Order Successful!",
+    "thank_you_for_your_purchase": "Thank you for your purchase! Your order has been received and is being processed.",
+    "continue_shopping": "Continue Shopping"
+  },
+  "not_found_admin": {
+    "title": "404 - Page Not Found",
+    "description": "The admin page you're trying to access doesn't exist or you don't have permission to view it.",
+    "go_back_home": "Go Back Home"
+  },
+  "not_found": {
+    "title": "404 - Page Not Found",
+    "description": "Sorry, we couldn't find the page you were looking for. It may have been removed or had its name changed.",
+    "go_back_home": "Go Back Home"
+  },
+  "products": "products",
+  "showing": "Showing",
+  "to": "to",
+  "of": "of",
+  "FastShipingTitle": "Fast Shipping to all parts of Morocco"
+}
